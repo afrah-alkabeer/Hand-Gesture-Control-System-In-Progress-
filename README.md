@@ -1,20 +1,41 @@
-# Hand Gesture Control System (In Progress)
 
-A deep learning-based system for real-time hand gesture recognition to control presentations without physical interaction.
+# 🤖 Hand Gesture Control System (In Progress)
 
-## Features (Planned)
-- Hand tracking using MediaPipe
-- Gesture classification using LSTM
-- Touchless presentation control
+A project focused on designing a smart system that allows users to control presentations using hand gestures.
 
-## Technologies
-- Python
-- OpenCV
-- MediaPipe
-- LSTM
+The system aims to replace traditional interaction (mouse and keyboard) with a touchless experience using computer vision.
 
-## Status
-This project is currently under development.
+---
 
-## Project Proposal:
-https://drive.google.com/file/d/1Xsk8nsJJCkWmln52eB1ujK6467B7CI-6/view?usp=drive_link
+## 📌 Project Overview
+
+This project is developed as part of an AI System Design course.  
+It focuses on improving presentation experience in educational environments by enabling full control through hand gestures.
+
+---
+
+## ⚙️ Features
+
+- Control presentation slides using hand gestures  
+- Play, pause, and navigate videos  
+- Adjust volume and media controls  
+- Virtual pen for writing and drawing on slides  
+- Real-time gesture recognition  
+
+---
+
+## 🧠 How It Works
+
+- Uses computer vision to detect hand movements  
+- Applies machine learning for gesture classification  
+- Processes input in real-time with low latency  
+- Built using tools like MediaPipe and OpenCV  
+
+---
+
+## 🎯 Target Users
+
+- Lecturers and instructors  
+- Students during presentations  
+- Anyone needing touchless control in presentations  
+
